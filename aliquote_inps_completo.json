@@ -1,0 +1,2425 @@
+[
+  {
+    "nomeSezione": "Agricoltura",
+    "numeroId": "2",
+    "sottosezioni": [
+      {
+        "testo": "5.1:\tAgricoltura (Generalità delle aziende agricole)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=2_120",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "32,97",
+            "8,84"
+          ],
+          [
+            "IMPIEGATI",
+            "34,47",
+            "8,84"
+          ],
+          [
+            "OPERAI T.D.",
+            "46,14",
+            "8,84"
+          ],
+          [
+            "OPERAI T.I.",
+            "47,34",
+            "8,84"
+          ]
+        ]
+      },
+      {
+        "testo": "5.2:\tCooperative agricole e Colono/Mezzadri",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=2_122",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "32,94",
+            "8,84"
+          ],
+          [
+            "IMPIEGATI",
+            "34,44",
+            "8,84"
+          ],
+          [
+            "OPERAI T.D.",
+            "47,11",
+            "8,84"
+          ],
+          [
+            "OPERAI T.I.",
+            "47,31",
+            "8,84"
+          ]
+        ]
+      },
+      {
+        "testo": "5.12:\tAziende coltivatrici dirette",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=2_121",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "32,94",
+            "8,84"
+          ],
+          [
+            "IMPIEGATI",
+            "32,94",
+            "8,84"
+          ],
+          [
+            "OPERAI T.D.",
+            "45,61",
+            "8,84"
+          ],
+          [
+            "OPERAI T.I.",
+            "45,81",
+            "8,84"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Amministrazioni dello Stato",
+    "numeroId": "14",
+    "sottosezioni": [
+      {
+        "testo": "3.1:\tAmministrazioni dello Stato - Cappellani alle dipendenze dell'Amministrazione penitenziaria appartenenti al clero secolare - Ministero di Grazia e Giustizia",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_200",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "CAPPELLANI SECOLARI (PRETI)",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "3.2:\tAmministrazioni dello Stato - Personale iscritto al FPLD escluso dai contributi TFR, DS, CUAF e Maternità",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_201",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "3.3:\tAmministrazioni dello Stato - Cappellani alle dipendenze dell'Amministrazione penitenziaria appartenenti al clero regolare - Ministero di Grazia e Giustizia",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_202",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "CAPPELLANI REGOLARI (FRATI E MONACHE)",
+            "33,91",
+            "8,84"
+          ]
+        ]
+      },
+      {
+        "testo": "3.4:\tAmministrazioni dello Stato - Personale iscritto al FPLD escluso dai contributi TFR, DS, CUAF, Maternità e TBC",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_205",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "3.5:\tAmministrazioni dello Stato - Detenuti ed internati alle dirette dipendenze dell'Amministrazione penitenziaria",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_203",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DETENUTI ED INTERNATI",
+            "37,27",
+            "8,84"
+          ]
+        ]
+      },
+      {
+        "testo": "3.6:\tAmministrazioni dello Stato - Disoccupati avviati ai cantieri scuola e lavoro legge 418/75",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=14_204",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "ALLIEVI",
+            "14,57",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Apprendistato",
+    "numeroId": "16",
+    "sottosezioni": [
+      {
+        "testo": "A:\tApprendistato (Validità dal 1-1-07)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=16_208",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Apprendisti 1° anno – Aziende fino a 9 dipendenti",
+            "8,95",
+            "5,84"
+          ],
+          [
+            "Apprendisti 1° anno – Aziende oltre i 9 dipendenti",
+            "17,45",
+            "5,84"
+          ],
+          [
+            "Apprendisti 2° anno – Aziende fino a 9 dipendenti",
+            "10,45",
+            "5,84"
+          ],
+          [
+            "Apprendisti 2° anno – Aziende oltre i 9 dipendenti",
+            "17,45",
+            "5,84"
+          ],
+          [
+            "Apprendisti oltre il 2° anno – Aziende fino a 9 dipendenti",
+            "17,45",
+            "5,84"
+          ],
+          [
+            "Apprendisti oltre il 2° anno – Aziende oltre i 9 dipendenti",
+            "17,45",
+            "5,84"
+          ]
+        ]
+      },
+      {
+        "testo": "A:\tApprendistato (Validità fino al 31-12-06)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=16_206",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Apprendisti – Agricoltura",
+            "5,54",
+            "5,54"
+          ],
+          [
+            "Apprendisti – Altri settori",
+            "5,54",
+            "5,54"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Artigianato",
+    "numeroId": "1",
+    "sottosezioni": [
+      {
+        "testo": "4.1:\tARTIGIANATO",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_1",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "33,90",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "36,12",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "33,68",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "4.2:\tARTIGIANATO DELL'INDOTTO (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_2",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "34,80",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "37,02",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "34,58",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "4.3:\tARTIGIANATO EDILE",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_3",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "35,60",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "40,82",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,38",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "4.4:\tARTIGIANATO EDILE dell'indotto (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_4",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "36,50",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "41,72",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,28",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "4.5:\tARTIGIANATO LAPIDEI",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_5",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "35,60",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "40,82",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,38",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "4.6:\tARTIGIANATO LAPIDEI dell'indotto (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=1_6",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "36,50",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "41,72",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,28",
+            "9,49"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Commercio - terziario",
+    "numeroId": "4",
+    "sottosezioni": [
+      {
+        "testo": "7.1:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende fino a 50 dipendenti) - CUAF intera",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_138",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.2:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende fino a 50 dipendenti) - CUAF ridotta",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_137",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "33,74",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "36,12",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "33,68",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.3:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende da 51 e fino a 200 dipendenti) - CUAF intera",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_136",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,07",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,63",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.4:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende da 51 e fino a 200 dipendenti) - CUAF ridotta",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_135",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "33,74",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "37,02",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "34,58",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.5:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende con più di 200 dipendenti) - CUAF intera",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_134",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,07",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,63",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.6:\tCOMMERCIO INGROSSO e DETTAGLIO (aziende con più di 200 dipendenti) - CUAF ridotta",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_124",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "33,74",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "37,02",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "34,58",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.9:\tAGENZIE DI VIAGGIO fino a 50 dipendenti",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_139",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.10:\tAGENZIE DI VIAGGIO con più di 50 dipendenti",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_141",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,07",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,63",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.11:\tSPEDIZIONIERI e AGENZIE DI OPERAZIONI DOGANALI",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_140",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.12:\tLOGISTICA (aziende fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_126",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.13:\tLOGISTICA (aziende da 51 e fino a 200 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_125",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,03",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,37",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,93",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.14:\tLOGISTICA (aziende con più di 200 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_131",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,03",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,37",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "36,93",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.16:\tPUBBLICI ESERCIZI – CUAF intera",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_146",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,94",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.17:\tPUBBLICI ESERCIZI – CUAF ridotta",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_145",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "33,68",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "36,89",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "33,68",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.20:\tCONDOMINI, PROPRIETARI di FABBRICATO e SERVIZI di CULTO",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_130",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI E PULITORI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "PORTIERI",
+            "35,03",
+            "8,84"
+          ],
+          [
+            "SACRISTI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.21:\tPROFESSIONI ED ARTI",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_149",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.22:\tPARTITI POLITICI e ORGANIZZAZIONI SINDACALI (con CUAF)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_148",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "DIRIGENTI ISCRITTI INPDAI",
+            "",
+            ""
+          ],
+          [
+            "DIRIGENTI ISCRITTI INPS",
+            "",
+            ""
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.23:\tPARTITI POLITICI e ORGANIZZAZIONI SINDACALI (senza CUAF)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_147",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI ISCRITTI INPDAI",
+            "",
+            ""
+          ],
+          [
+            "DIRIGENTI ISCRITTI INPS",
+            "33,65",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "33,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.26:\tMENSE AZIENDALI – Aziende appaltatrici di servizi mensa e ristorazione presso imprese INDUSTRIALI (fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_142",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,94",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.27:\tMENSE AZIENDALI – Aziende appaltatrici di servizi mensa e ristorazione presso imprese INDUSTRIALI (con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_150",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,84",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.29:\tIMPRESE di VIGILANZA (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_128",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.30:\tIMPRESE di VIGILANZA (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_127",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,07",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.31:\tTERZIARIO (attività VARIE)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_143",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "35,73",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.32:\tIMPRESE di PULIZIA – Aziende appaltatrici di servizi di pulizia presso aziende soggette alla CIGS (fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_133",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "7.33:\tIMPRESE di PULIZIA – Aziende appaltatrici di servizi di pulizia presso aziende soggette alla CIGS (con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_129",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "39,07",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "7.34:\tAGENZIE DI FORNITURA DI LAVORO TEMPORANEO",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=4_132",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,43",
+            "9,19"
+          ],
+          [
+            "DIRIGENTI. Assunti per il funzionamento della struttura",
+            "",
+            ""
+          ],
+          [
+            "DIRIGENTI. Prestatori di lavoro interinale",
+            "",
+            ""
+          ],
+          [
+            "DIRIGENTI. Prestatori di lavoro somministrato",
+            "",
+            ""
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "37,87",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI. Assunti per il funzionamento della struttura",
+            "",
+            ""
+          ],
+          [
+            "OPERAI ED IMPIEGATI. Prestatori di lavoro interinale",
+            "",
+            ""
+          ],
+          [
+            "OPERAI ED IMPIEGATI. Prestatori di lavoro somministrato",
+            "",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Credito e Assicurazioni",
+    "numeroId": "9",
+    "sottosezioni": [
+      {
+        "testo": "6.1:\tCREDITO e ASSICURAZIONI",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=9_165",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,95",
+            "9,19"
+          ],
+          [
+            "OPERAI E IMPIEGATI",
+            "35,95",
+            "9,19"
+          ],
+          [
+            "SALARIATI",
+            "38,50",
+            "9,19"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Editoria periodici ed Agenzie di stampa",
+    "numeroId": "8",
+    "sottosezioni": [
+      {
+        "testo": "1.13:\tImprese EDITRICI o stampatrici di giornali quotidiani e periodici e Agenzie di stampa a diffusione nazionale (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=8_164",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,55",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "40,77",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,33",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "1.14:\tImprese EDITRICI o stampatrici di giornali quotidiani e periodici e Agenzie di stampa a diffusione nazionale (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=8_162",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,55",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "40,77",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,33",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "1.15:\tImprese EDITRICI o stampatrici di giornali quotidiani e periodici e Agenzie di stampa a diffusione nazionale (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=8_163",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,85",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "41,07",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,63",
+            "9,49"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Fondi speciali",
+    "numeroId": "11",
+    "sottosezioni": [
+      {
+        "testo": "10.11:\tFONDO AUTOFERROTRANVIERI – Aziende esercenti pubblici servizi di trasporto escluse dall'applicazione del R.D. 148/31",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=11_177",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "35,95",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "10.12:\tFONDO AUTOFERROTRANVIERI – Aziende esercenti pubblici servizi di trasporto destinatarie del R.D. 148/31",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=11_178",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "35,95",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "38,17",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "10.15:\tFONDO AUTOFERROTRANVIERI – Settore ARTIGIANATO - Aziende esercenti pubblici servizi di trasporto",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=11_176",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "35,95",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "38,17",
+            "9,19"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Gestione Dipendenti Pubblici (ex INPDAP)",
+    "numeroId": "17",
+    "sottosezioni": [
+      {
+        "testo": "CPDEL:\tCPDEL (Cassa Pensioni Dipendenti Enti Locali)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=17_211",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dipendenti pubblici",
+            "32,65",
+            "8,85"
+          ]
+        ]
+      },
+      {
+        "testo": "CPI:\tCPI (Cassa Pensioni Insegnanti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=17_212",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dipendenti pubblici",
+            "32,65",
+            "8,85"
+          ]
+        ]
+      },
+      {
+        "testo": "CPS:\tCPS (Cassa Pensioni Sanitari)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=17_214",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dipendenti pubblici",
+            "32,65",
+            "8,85"
+          ]
+        ]
+      },
+      {
+        "testo": "CPUG:\tCPUG (Cassa pensioni Ufficiali giudiziari)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=17_213",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dipendenti pubblici",
+            "32,65",
+            "8,85"
+          ]
+        ]
+      },
+      {
+        "testo": "CTPS:\tCTPS (Cassa Trattamenti Pensionistici dei dipendenti dello Stato)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=17_210",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dipendenti pubblici",
+            "33,00",
+            "8,80"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Imprese radiotelevisive e Spettacolo",
+    "numeroId": "10",
+    "sottosezioni": [
+      {
+        "testo": "9.1:\tSPETTACOLO – settore INDUSTRIA non soggette alla CIG",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_173",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI Aventi diritto all'indennità di malattia",
+            "5,17",
+            ""
+          ],
+          [
+            "OPERAI ED IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "2,95",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.1bis:\tImprese radiotelevisive private",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_172",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "OPERAI e impiegati aventi diritto all'indennità economica di malattia",
+            "5,17",
+            ""
+          ],
+          [
+            "OPERAI e impiegati non aventi diritto all'indennità economica di malattia",
+            "2,95",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.1ter:\tImprese funzionalmente collegate con l'emittenza privata",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_171",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "OPERAI e impiegati aventi diritto all'indennità economica di malattia",
+            "5,17",
+            ""
+          ],
+          [
+            "OPERAI e impiegati non aventi diritto all'indennità economica di malattia",
+            "2,95",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.2:\tSPETTACOLO – settore INDUSTRIA non soggette alla CIG – Artisti non dipendenti",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_170",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "ARTISTI NON DIPENDENTI aventi diritto all'indennità di malattia",
+            "1,28",
+            ""
+          ],
+          [
+            "ARTISTI NON DIPENDENTI  non aventi diritto all'indennità di malattia",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.3:\tSPETTACOLO – settore INDUSTRIA - Sviluppo e stampa – Distribuzione e noleggio film (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_174",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI Aventi diritto all'indennità di malattia",
+            "6,87",
+            ""
+          ],
+          [
+            "OPERAI E IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "4,65",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.4:\tSPETTACOLO – settore INDUSTRIA - Sviluppo e stampa – Distribuzione e noleggio film (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_168",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI Aventi diritto all'indennità di malattia",
+            "7,77",
+            "0,30"
+          ],
+          [
+            "OPERAI E IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "5,55",
+            "0,30"
+          ]
+        ]
+      },
+      {
+        "testo": "9.5:\tSPETTACOLO – settore INDUSTRIA - Sviluppo e stampa – Distribuzione e noleggio film (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_175",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI Aventi diritto all'indennità di malattia",
+            "8,07",
+            "0,30"
+          ],
+          [
+            "OPERAI E IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "5,85",
+            "0,30"
+          ]
+        ]
+      },
+      {
+        "testo": "9.6:\tSPETTACOLO – settore COMMERCIO - CUAF intera",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_167",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI Aventi diritto all'indennità di malattia",
+            "5,17",
+            ""
+          ],
+          [
+            "OPERAI E IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "2,95",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.7:\tSPETTACOLO – settore COMMERCIO - CUAF ridotta",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_166",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI Aventi diritto all'indennità di malattia",
+            "3,12",
+            ""
+          ],
+          [
+            "OPERAI E IMPIEGATI Non aventi diritto all'indennità di malattia",
+            "0,90",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "9.8:\tSALE BINGO - settore TERZIARIO",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=10_169",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "35,73",
+            "9,19"
+          ],
+          [
+            "OPERAI E IMPIEGATI",
+            "5,17",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Industria edile",
+    "numeroId": "5",
+    "sottosezioni": [
+      {
+        "testo": "1.4:\tINDUSTRIA EDILE (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=5_154",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "37,65",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "42,87",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "37,43",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "1.4bis:\tINDUSTRIA EDILE (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=5_153",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "6,12\n8,48",
+            "(a)\n(b)",
+            "1,00"
+          ],
+          [
+            "IMPIEGATI",
+            "47,23",
+            "",
+            "10,19"
+          ],
+          [
+            "OPERAI",
+            "49,45",
+            "",
+            "10,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "47,01",
+            "",
+            "10,19"
+          ],
+          [
+            ""
+          ],
+          [
+            "(a) iscritti INPDAI post 31.12.95",
+            ""
+          ],
+          [
+            "(b) iscritti INPDAI ante 1.1.96",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "1.5:\tINDUSTRIA EDILE (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=5_152",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,55",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "43,77",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,33",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "1.6:\tINDUSTRIA EDILE (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=5_151",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "38,85",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "43,77",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,63",
+            "9,49"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Industria in genere",
+    "numeroId": "6",
+    "sottosezioni": [
+      {
+        "testo": "1.1:\tINDUSTRIA in genere (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=6_155",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "37,65",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "39,87",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "37,43",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "1.2:\tINDUSTRIA in genere (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=6_156",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,55",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "40,77",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,33",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "1.3:\tINDUSTRIA in genere (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=6_157",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI, EQUIPARATI, INTERMEDI",
+            "38,85",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "41,07",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,63",
+            "9,49"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Industria Lapidei",
+    "numeroId": "7",
+    "sottosezioni": [
+      {
+        "testo": "1.7:\tINDUSTRIA LAPIDEI (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=7_161",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "37,65",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "41,47",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "37,43",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "1.7bis:\tINDUSTRIA LAPIDEI (aziende con più di 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=7_159",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "4,76\n5,62",
+            "(a)\n(b)",
+            ""
+          ],
+          [
+            "IMPIEGATI",
+            "43,37",
+            "",
+            "9,19"
+          ],
+          [
+            "OPERAI",
+            "45,59",
+            "",
+            "9,19"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "43,15",
+            "",
+            "9,19"
+          ],
+          [
+            ""
+          ],
+          [
+            "(a) iscritti INPDAI post 31.12.96",
+            ""
+          ],
+          [
+            "(b) iscritti INPDAI ante 1.1.97",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "1.8:\tINDUSTRIA LAPIDEI (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=7_158",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "38,55",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "42,37",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,33",
+            "9,49"
+          ]
+        ]
+      },
+      {
+        "testo": "1.9:\tINDUSTRIA LAPIDEI (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=7_160",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "DIRIGENTI",
+            "36,15",
+            "9,19"
+          ],
+          [
+            "IMPIEGATI",
+            "38,85",
+            "9,49"
+          ],
+          [
+            "OPERAI",
+            "42,37",
+            "9,49"
+          ],
+          [
+            "VIAGGIATORI E PIAZZISTI",
+            "38,63",
+            "9,49"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Industria mineraria",
+    "numeroId": "13",
+    "sottosezioni": [
+      {
+        "testo": "1.10:\tIndustria mineraria (aziende fino a 15 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=13_197",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dirigenti – sotterraneo",
+            "40,05",
+            "10,23"
+          ],
+          [
+            "Dirigenti – superficie",
+            "38,10",
+            "9,71"
+          ],
+          [
+            "Impiegati – sotterraneo",
+            "41,85",
+            "10,59"
+          ],
+          [
+            "Impiegati – superficie",
+            "39,75",
+            "9,89"
+          ],
+          [
+            "Operai – sotterraneo",
+            "44,07",
+            "10,59"
+          ],
+          [
+            "Operai – superficie",
+            "41,97",
+            "9,89"
+          ]
+        ]
+      },
+      {
+        "testo": "1.11:\tIndustria mineraria (aziende con più di 15 e fino a 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=13_198",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dirigenti – sotterraneo",
+            "40,05",
+            "10,23"
+          ],
+          [
+            "Dirigenti – superficie",
+            "38,10",
+            "9,71"
+          ],
+          [
+            "Impiegati – sotterraneo",
+            "42,75",
+            "10,89"
+          ],
+          [
+            "Impiegati – superficie",
+            "40,65",
+            "10,19"
+          ],
+          [
+            "Operai – sotterraneo",
+            "44,97",
+            "10,89"
+          ],
+          [
+            "Operai – superficie",
+            "42,87",
+            "10,19"
+          ]
+        ]
+      },
+      {
+        "testo": "1.12:\tIndustria mineraria (aziende con più di 50 dipendenti)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=13_199",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Dirigenti – sotterraneo",
+            "40,05",
+            "10,23"
+          ],
+          [
+            "Dirigenti – superficie",
+            "38,10",
+            "9,71"
+          ],
+          [
+            "Impiegati – sotterraneo",
+            "43,05",
+            "10,89"
+          ],
+          [
+            "Impiegati – superficie",
+            "40,95",
+            "10,19"
+          ],
+          [
+            "Operai – sotterraneo",
+            "45,27",
+            "10,89"
+          ],
+          [
+            "Operai – superficie",
+            "43,17",
+            "10,19"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nomeSezione": "Regioni, Province e Comuni - Enti pubblici - IPAB",
+    "numeroId": "15",
+    "sottosezioni": [
+      {
+        "testo": "2.1:\tRegioni, Province e Comuni - Personale iscritto al FPLD escluso dai contributi TFR, CUAF, Malattia e Maternità",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_183",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.2:\tRegioni, Province e Comuni - Enti locali (Comunità Montane) - Personale iscritto al FPLD escluso dai contributi DS, TFR, CUAF, Malattia e Maternità",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_184",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.3:\tRegioni, Province e Comuni - Altri Enti Territorali - Personale iscritto al FPLD escluso dai contributi DS, TFR, CUAF, ex TBC, Malattia e Maternità",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_185",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "32,65",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.4:\tEnti Pubblici - Personale iscritto al FPLD degli Enti Pubblici in genere, escluso dai contributi CUAF e Maternità",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_186",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI",
+            "33,20",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.5:\tEnti Pubblici - Personale iscritto al FPLD degli Enti Pubblici in genere, escluso dal contributo CUAF",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_187",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI ED IMPIEGATI - Personale non soggetto all'indennità di malattia",
+            "33,44",
+            "9,19"
+          ],
+          [
+            "OPERAI ED IMPIEGATI - Personale soggetto all'indennità di malattia",
+            "35,88",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.6:\tEnti Pubblici - Personale iscritto al FPLD degli Enti Pubblici in genere, escluso dal contributo CUAF (no DS)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_188",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Operai ed impiegati - Personale non soggetto all'indennità di malattia",
+            "33,44",
+            "9,19"
+          ],
+          [
+            "Operai ed impiegati - Personale soggetto all'indennità di malattia",
+            "35,88",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.7:\tEnti Pubblici - Personale iscritto al FPLD degli Enti Pubblici in genere, escluso dal contributo CUAF (no DS, no ex TBC)",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_189",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Operai ed impiegati - Personale non soggetto all'indennità di malattia",
+            "33,44",
+            "9,19"
+          ],
+          [
+            "Operai ed impiegati - Personale soggetto all'indennità di malattia",
+            "35,88",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.8:\tIstituzioni pubbliche di assistenza e beneficenza - Personale iscritto al FPLD delle IPAB, escluso dal contributo CUAF",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_194",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Operai ed impiegati - Personale non soggetto all'indennità di malattia",
+            "33,98",
+            "9,19"
+          ],
+          [
+            "Operai ed impiegati - Personale soggetto all'indennità di malattia",
+            "36,42",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.9:\tIstituzioni pubbliche di assistenza e beneficenza - Personale iscritto al FPLD delle IPAB escluso dai contributi CUAF e DS",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_195",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Operai ed impiegati - Personale non soggetto all'indennità di malattia",
+            "32,37",
+            "9,19"
+          ],
+          [
+            "Operai ed impiegati - Personale soggetto all'indennità di malattia",
+            "34,81",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.10:\tIstituzioni pubbliche di assistenza e beneficenza - Personale iscritto al FPLD delle IPAB escluso dai contributi CUAF, TBC e DS",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_196",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "Operai ed impiegati - Personale non soggetto all'indennità di malattia",
+            "32,23",
+            "9,19"
+          ],
+          [
+            "Operai ed impiegati - Personale soggetto all'indennità di malattia",
+            "34,67",
+            "9,19"
+          ]
+        ]
+      },
+      {
+        "testo": "2.11:\tAziende speciali legge 142-1990 non costituite in società, soggette alla CUAF. Attività commerciali.",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_190",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI",
+            "8,89",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "2.12:\tAziende speciali legge 142-1990 non costituite in società, non soggette alla CUAF. Attività commerciali.",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_191",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "OPERAI E IMPIEGATI",
+            "4,49",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "2.13:\tAziende speciali legge 142-1990 non costituite in società, soggette alla CUAF. Attività industriali.",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_192",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "6,67",
+            ""
+          ],
+          [
+            "OPERAI",
+            "8,89",
+            ""
+          ]
+        ]
+      },
+      {
+        "testo": "2.14:\tAziende speciali legge 142-1990 non costituite in società, non soggette alla CUAF. Attività industriali.",
+        "href": "https://www.kitech.it/Contributi-previdenziali.aspx?p=15_193",
+        "tabellaDati": [
+          [
+            "qualifica",
+            "totale",
+            "c/dip"
+          ],
+          [
+            "IMPIEGATI",
+            "2,27",
+            ""
+          ],
+          [
+            "OPERAI",
+            "4,49",
+            ""
+          ]
+        ]
+      }
+    ]
+  }
+]
