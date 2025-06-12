@@ -1,0 +1,47 @@
+# node modules
+node_modules/
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional build artifacts
+dist/
+build/
+
+# VSCode settings (opzionale)
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Jest snapshot
+*.snap
+
+# IDEs & editors
+.idea/
+*.sw?
+*.sublime-*
+
+# TypeScript build output (se usi TS)
+*.tsbuildinfo
+
+# Playwright / Puppeteer cache (se usi scraping headless)
+.playwright/
+.puppeteer/
