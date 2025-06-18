@@ -48,7 +48,7 @@ const fs = require('fs');
 
       try {
         await newPage.waitForSelector('#ContentPlaceHolder1_CPHDati_Tabella table', { timeout: 7000 });
-        // Estrazione dati tabellari come array di array
+        
         const tabellaDati = await newPage.$$eval('#ContentPlaceHolder1_CPHDati_Tabella table tr', rows => {
           return Array.from(rows, row => {
             const cells = row.querySelectorAll('td, th');
@@ -57,7 +57,7 @@ const fs = require('fs');
         });
         sottosezione.tabellaDati = tabellaDati;
       } catch (e) {
-        console.log(`⚠️ Nessuna tabella trovata per: ${sottosezione.href}`);
+        console.log(` Nessuna tabella trovata per: ${sottosezione.href}`);
         sottosezione.tabellaDati = null;
       }
 
@@ -74,7 +74,7 @@ const fs = require('fs');
   }
 
   fs.writeFileSync('aliquote_inps_completo.json', JSON.stringify(risultatoFinale, null, 2));
-  console.log('✅ Dati completi salvati in aliquote_inps_completo.json');
+  console.log(' Dati completi salvati in aliquote_inps_completo.json');
 
   await browser.close();
 })();
